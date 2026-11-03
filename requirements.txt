@@ -1,0 +1,5 @@
+streamlit>=1.33
+streamlit-geolocation>=0.0.10
+streamlit-autorefresh>=1.0.1
+requests>=2.31          # для Firebase Firestore (REST)
+psycopg2-binary>=2.9    # для Postgres (Supabase / Neon)
